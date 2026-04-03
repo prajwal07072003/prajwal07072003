@@ -73,7 +73,7 @@ Machine Learning • Deep Learning • NLP • SQL • EDA • Feature Engineeri
 ## 📫 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/YOUR-LINK" target="_blank">
+<a href="http://www.linkedin.com/in/prajwalpraju" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 <a href="mailto:pprajwal716@gmail.com">
