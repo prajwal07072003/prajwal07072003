@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prajwal</h1>
-<h3 align="center">AI/ML Engineer | Data Science | Building Intelligent Systems</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI/ML+Engineer;Data+Science+Enthusiast;Building+Intelligent+Systems;Explainable+AI+%7C+NLP+%7C+RL" />
+</p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=prajwal07072003&label=Profile%20views&color=0e75b6&style=flat" />
@@ -8,40 +11,55 @@
 ---
 
 ## 🧠 About Me
-- 🎓 MCA (AI/ML Specialization)
-- 🤖 Passionate about Machine Learning, Deep Learning & Explainable AI  
-- 📊 Love solving real-world problems using data-driven approaches  
-- 🚀 Focused on building scalable ML systems  
+- 🎓 MCA (AI/ML Specialization)  
+- 🤖 Focused on Machine Learning, Deep Learning & Explainable AI  
+- 📊 Passionate about solving real-world problems using data  
+- 🚀 Building scalable AI systems & intelligent applications  
 
 ---
 
 ## 🔥 Featured Projects
 
-- 📊 **Customer Churn Prediction**  
-  End-to-end ML pipeline with EDA, feature engineering, and business insights  
+<table>
+<tr>
+<td width="50%">
 
-- ⚖️ **Fairness-Aware Credit Prediction**  
-  Explainable AI using SHAP & Fairlearn for bias detection  
+### 📊 Customer Churn Prediction  
+End-to-end ML pipeline with EDA, feature engineering, and business insights  
 
-- 🤖 **RL Path Planning Agent**  
-  Q-Learning & DQN-based autonomous navigation  
+### ⚖️ Fairness-Aware Credit Prediction  
+Explainable AI using SHAP & Fairlearn for bias detection  
 
-- 📈 **Data Analysis Dashboard**  
-  Interactive Streamlit dashboard with insights  
+### 🤖 RL Path Planning Agent  
+Q-Learning & DQN-based autonomous navigation  
 
-- 🧠 **AI Resume Screener**  
-  NLP-based resume analysis system  
+</td>
+
+<td width="50%">
+
+### 📈 Data Analysis Dashboard  
+Interactive Streamlit dashboard with insights  
+
+### 🧠 AI Resume Screener  
+NLP-based resume analysis system  
+
+### 🎙️ AI Voice Assistant  
+Speech recognition + automation system  
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,java,git,github,vscode,docker" />
 </p>
 
 <p align="center">
-Machine Learning • Deep Learning • NLP • SQL • EDA • Feature Engineering
+Machine Learning • Deep Learning • NLP • SQL • EDA • Feature Engineering • Explainable AI
 </p>
 
 ---
@@ -53,13 +71,20 @@ Machine Learning • Deep Learning • NLP • SQL • EDA • Feature Engineeri
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal07072003&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajwal07072003&theme=tokyonight" />
 ---
 
 ## 🔥 Contribution Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=prajwal07072003&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prajwal07072003&theme=tokyo-night" />
 </p>
 
 ---
@@ -74,7 +99,7 @@ Machine Learning • Deep Learning • NLP • SQL • EDA • Feature Engineeri
 ## 📫 Connect With Me
 
 <p align="center">
-<a href="http://www.linkedin.com/in/prajwalpraju" target="_blank">
+<a href="https://www.linkedin.com/in/YOUR-LINK" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 <a href="mailto:pprajwal716@gmail.com">
