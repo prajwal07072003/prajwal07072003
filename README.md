@@ -53,6 +53,7 @@ Machine Learning • Deep Learning • NLP • SQL • EDA • Feature Engineeri
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal07072003&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajwal07072003&theme=tokyonight" />
 ---
 
 ## 🔥 Contribution Streak
