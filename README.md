@@ -68,7 +68,7 @@ Pandas, NumPy, Scikit-learn, Matplotlib, SHAP, Fairlearn, Streamlit
 
 ## 📫 Connect With Me
 📧 Email: pprajwal716@gmail.com  
-🔗 LinkedIn: (add your link here)
+🔗 LinkedIn: http://www.linkedin.com/in/prajwalpraju
 
 ---
 
